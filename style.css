@@ -1,0 +1,91 @@
+body { 
+  margin: 50;
+  padding: 50;
+  background:white;
+ align-items: center;
+  height: 100vh;
+  
+
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+
+}
+form{
+  display: flex;
+  flex-direction: column;
+  background-color:rgb(171, 168, 168);
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow:0 0 10px rgba(0,0,0,0.2) ;
+  margin-right: 20px;
+
+
+}
+.form2 {
+float: right;
+
+
+}
+h1{
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: -10px;
+  margin-top: 0%;
+}
+
+.buton1{
+  background-color: rgb(45, 45, 200);
+  margin: 0;
+  border-radius: 5px;
+  border:rgb(45, 45, 200) 1px solid;
+  
+
+}
+
+ .hr2{
+  margin:10px 0;
+   background-color: aliceblue;
+   border: 0;
+   height: 1px;
+   width: 20;
+   align-items: left;
+
+} 
+
+.hr2{
+  margin:10px 0;
+   background-color: aliceblue;
+   border: 0;
+   height: 1px;
+   width: 2O;
+   align-self: right;
+} 
+
+.mail{
+  margin-bottom: 0px;
+}
+
+.password{
+  margin-bottom: 0px;
+}
+.btn-inscription{
+  text-decoration: 0;
+  color: white;
+  background-color: rgb(45, 45, 200);
+   border-radius: 6px;
+  width: 20pc;
+  margin: 10px;;
+  cursor: pointer;
+  
+  
+
+}
+.buton3{
+  background-color: rgb(45, 45, 200);
+  margin: 0;
+  border-radius: 6px;
+  border:rgb(45, 45, 200) 1px solid;
+}
+
